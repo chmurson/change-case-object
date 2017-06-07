@@ -1,5 +1,5 @@
 {
-  "name": "chmurson/change-case-object",
+  "name": "change-case-object-chmurson",
   "version": "2.1.0",
   "description": "Changes the case of all keys of an object",
   "main": "index.js",
