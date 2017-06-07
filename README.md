@@ -1,10 +1,10 @@
 # change-case-object
 
-[![Build Status](https://travis-ci.org/BinaryThumb/change-case-object.svg?branch=master)](https://travis-ci.org/BinaryThumb/change-case-object)
-[![Dependency Status](https://david-dm.org/BinaryThumb/change-case-object.svg)](https://david-dm.org/BinaryThumb/change-case-object)
-[![devDependency Status](https://david-dm.org/BinaryThumb/change-case-object/dev-status.svg)](https://david-dm.org/BinaryThumb/change-case-object#info=devDependencies)
-[![Coverage Status](https://coveralls.io/repos/BinaryThumb/change-case-object/badge.svg?branch=master&service=github)](https://coveralls.io/github/BinaryThumb/change-case-object?branch=master)
-[![Code Climate](https://codeclimate.com/github/BinaryThumb/change-case-object/badges/gpa.svg)](https://codeclimate.com/github/BinaryThumb/change-case-object)
+[![Build Status](https://travis-ci.org/chmurson/change-case-object.svg?branch=master)](https://travis-ci.org/BinaryThumb/change-case-object)
+[![Dependency Status](https://david-dm.org/chmurson/change-case-object.svg)](https://david-dm.org/BinaryThumb/change-case-object)
+[![devDependency Status](https://david-dm.org/chmurson/change-case-object/dev-status.svg)](https://david-dm.org/BinaryThumb/change-case-object#info=devDependencies)
+[![Coverage Status](https://coveralls.io/repos/chmurson/change-case-object/badge.svg?branch=master&service=github)](https://coveralls.io/github/BinaryThumb/change-case-object?branch=master)
+[![Code Climate](https://codeclimate.com/github/chmurson/change-case-object/badges/gpa.svg)](https://codeclimate.com/github/BinaryThumb/change-case-object)
 
 Changes the case of all keys in an object or array. In its simplest form it also changes the key itself if a string is passed in.
 
@@ -55,6 +55,7 @@ AirBnB ES5
 MIT
 
 ## Changelog
+2.1.0 String values of are no longer being transformed
 2.0.0 Object values are no longer being transformed by default
 1.1.1 Stricter checking for code guideline  
 1.1.0 Add support for arrays and primitives  
